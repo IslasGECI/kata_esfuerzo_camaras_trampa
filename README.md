@@ -19,9 +19,9 @@ Vamos un día a campo a revisar las cámaras del cerco, el día es nublado
 y no alcanzamos a revisar la camara 2, el estado de las otras 5 son: A,D,A,D,A.
 1. ¿Cuáles pudieron haber sido las causas para encontrar las 2 cámaras desactivadas (3 y 5)?
     
-    R1. Se le acabó la pila a la cámara
-    R2. se llenó la memoria
-    R3. Dejó de funcionar
+   - R1. Se le acabó la pila a la cámara
+   - R2. Se llenó la memoria
+   - R3. Dejó de funcionar
 
 2. ¿Cómo vamos a señalar que desactivamos la trampa 01?
 
@@ -74,9 +74,9 @@ y no alcanzamos a revisar la camara 2, el estado de las otras 5 son: A,D,A,D,A.
 
 1. ¿Cuáles pudieron haber sido las causas para encontrar las 2 cámaras desactivadas (3 y 5)?
 
-    R1. Se le acabó la pila a la cámara
-    R2. Se llenó la memoria
-    R3. Dejó de funcionar
+    - R1. Se le acabó la pila a la cámara
+    - R2. Se llenó la memoria
+    - R3. Dejó de funcionar
 
 2. ¿Cómo vamos a señalar que desactivamos la trampa 01?
 
