@@ -52,7 +52,7 @@ La siguiente 15na hay mejor tiempo y podemos revisar las 6 cámaras.
 | PF | CA-01-005-PF | 1 | 373993 | 3196320 | cerco | si | A |
 | PD | CA-01-006-PD | 1 | 373960 | 3196309 | cerco | si | A |
 
-Calcula el esfuerzo a partir de la información anterior.
+Calcula el esfuerzo quincenal y mensual a partir de la información anterior.
 
 ## 🥋 Kata 2
 
@@ -102,4 +102,4 @@ La siguiente 15na hay mejor tiempo y podemos revisar las 6 cámaras.
 |-----|-----|-----|-----|-----|-----|-----|-----|
 | EF | CA-01-002-EF | 1 | 373993 | 3196320 | cerco | si | D |
 
-Calcula el esfuerzo a partir de la información anterior.
+Calcula el esfuerzo quincenal y mensual a partir de la información anterior.
