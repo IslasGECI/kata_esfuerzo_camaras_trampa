@@ -43,8 +43,8 @@ La siguiente 15na hay mejor tiempo y podemos revisar las 6 cámaras.
 - Las cámaras 3 y 5 las activamos la 15na pasada y las encontramos funcionando.
 - Las cámaras 4 y 6 siguen funcionando.
 
-| ID_camara_trampa_anterior | ID_camara_trampa | Zona | Coordenada_Este | Coordenada_Norte | Ubicacion |Revisión |Estado |
-|-----|-----|-----|-----|-----|-----|-----|-----|
+| ID_camara_trampa | Zona | Coordenada_Este | Coordenada_Norte | Ubicacion |Revisión |Estado |
+|-----|-----|-----|-----|-----|-----|-----|
 | CA-01-001-ED | 1 | 373960 | 3196309 | cerco | si | D |
 | CA-01-002-EF | 1 | 373993 | 3196320 | cerco | si | D |
 | CA-01-003-OD | 1 | 373893 | 3196557 | cerco | si | A |
